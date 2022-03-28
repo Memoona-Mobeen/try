@@ -1,0 +1,20 @@
+   body{
+     margin: 0;
+     padding: 0;
+   }
+   .logo{
+     font-family: sans-serif;
+     font-weight: bold;
+     font-size: 29px;
+   }
+nav ul li{
+  list-style: none;
+  margin-left: 85%;
+  display: inline ;
+  padding: 6%;
+  
+   
+}
+nav li{
+ 
+}
